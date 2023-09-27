@@ -1,9 +1,36 @@
-.container__menu-bar > ul {
+.container__menu-bar{
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.container__menu-bar > ul > li {
-  margin-right: 20px;
-  list-style: none;
+.content__pages > ul {
+  display: flex;
+}
+
+.content__pages > ul > li {
+  margin: 0 25px;
+  list-style-type: none;
+}
+
+.content__pages ul li:hover {
+  color: aqua !important;
+}
+
+.content__pages > ul > li > a {
+  font-size: 18px;
+}
+
+.content__pages > ul > li > a:hover {
+  color: #62ABD5;
+}
+
+.content__social-media > ul{
+  display: flex;
+}
+
+.content__social-media > ul > li {
+  margin-left: 20px;
+  font-size: 25px;
+  list-style-type: none;
 }

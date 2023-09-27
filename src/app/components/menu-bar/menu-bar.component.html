@@ -1,9 +1,34 @@
-<div class="container__menu-bar">
-  <ul>
-    <li><a href="https://linkedin.com/in/isandrino">Linkedin</a></li>
-    <li><span>•</span></li>
-    <li><a href="https://github.com/IsraelSandrino">Github</a></li>
-    <li><span>•</span></li>
-    <li><a href="">Youtube</a></li>
-  </ul>
-</div>
+<nav class="container__menu-bar">
+  <div class="content__nav-logo">
+    <img src="{{ photoLogo }}" alt="">
+  </div>
+
+  <div class="content__pages">
+    <ul>
+      <li><a href="">Home</a></li>
+      <li><a href="">Games</a></li>
+      <li><a href="">Anime</a></li>
+      <li><a href="">Nerd +</a></li>
+    </ul>
+  </div>
+
+  <div class="content__social-media">
+    <ul>
+      <li>
+        <a href="https://linkedin.com/in/isandrino">
+          <fa-icon [icon]="faLinkedin"></fa-icon>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/IsraelSandrino">
+          <fa-icon [icon]="faGithub"></fa-icon>
+        </a>
+      </li>
+      <li>
+        <a href="">
+          <fa-icon [icon]="faEnvelope"></fa-icon>
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>
