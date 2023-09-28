@@ -1,27 +1,39 @@
 .container__big-card {
-  margin: 0 20px;
-  width: 400px;
-  height: 500px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
+  margin-right: 50px;
 }
 
-.big-card__photo > img {
+.big-card__photo > figure {
   width: 100%;
-  min-width: 400px;
+  box-sizing: border-box;
+}
+
+.big-card__photo > figure > img {
+  width: inherit;
+  height: auto;
+}
+
+.big-card__photo > figure > figcaption {
+  color: #616161;
+  font-size: 14px;
+}
+
+.big-card__photo-data {
+  margin: 16px 0 13px 0;
 }
 
 .big-card__title > h1 {
-  margin-top: 10px;
-  font-size: 20px;
+  font-size: 40px;
 }
 
 .big-card__description {
   margin-top: 20px;
+  font-size: 20px;
 }
 
 .big-card__description > p > a {
-  color: grey;
+  color: #6e6e6e;
 }

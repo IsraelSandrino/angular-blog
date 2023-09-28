@@ -1,7 +1,33 @@
 .container__articles {
-  margin-top: 30px;
+  margin-top: 80px;
   display: flex;
   flex-direction: row;
   justify-content: center;
 }
 
+.articles__main {
+  width: 50%;
+}
+
+.articles__news {
+  width: 50%;
+}
+
+.container__articles-relevant {
+  left: 0;
+  width: 100%;
+  padding: 50px 100px;
+  position: absolute;
+  display: flex;
+  border: 1px solid red;
+  background-color: #f0f0f0;
+}
+
+.container__articles-relevant > app-relevant-card {
+  width: 25%;
+  border: 1px solid yellow;
+}
+
+.container__articles-relevant > hr {
+  margin: 0 40px;
+}

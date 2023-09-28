@@ -1,7 +1,12 @@
 .container__menu-bar{
   display: flex;
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
+}
+
+.content__nav-logo {
+  margin-top: 10px;
 }
 
 .content__pages > ul {
@@ -11,18 +16,21 @@
 .content__pages > ul > li {
   margin: 0 25px;
   list-style-type: none;
-}
-
-.content__pages ul li:hover {
-  color: aqua !important;
+  font-weight: 500;
 }
 
 .content__pages > ul > li > a {
-  font-size: 18px;
+  padding: 8px 12px;
+  color: #8b8b8b;
+}
+
+.active {
+  color: #62ABD5 !important;
+  font-weight: bolder;
 }
 
 .content__pages > ul > li > a:hover {
-  color: #62ABD5;
+  color: #62ABD5 !important;
 }
 
 .content__social-media > ul{
