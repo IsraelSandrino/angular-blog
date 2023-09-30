@@ -3,36 +3,95 @@
 <div class="container__articles">
   <div class="articles__main">
     <app-big-card Id="1"
-      photoCover="https://disneyplusbrasil.com.br/wp-content/uploads/2021/05/Tony-Stark-Substituto.jpg"
-      photoData="Setembro 28, 2023" cardTitle="Armadura Forjada: O Surgimento do Homem de Ferro"
-      cardDescription='O filme que mudou o jogo! Prepare-se para mergulhar no universo da Marvel enquanto Tony Stark se transforma no icônico Homem de Ferro. Com efeitos visuais de tirar o fôlego e uma história repleta de ação, o lançamento de "Homem de Ferro 1" é um marco na história do cinema de super-heróis'></app-big-card>
+      photoCover="https://universoheroico.com.br/wp-content/uploads/2022/04/Homem-Aranha-atraves-do-aranhaverso.jpg"
+      photoData="Junho 01, 2023"
+      cardTitle="Teias do Destino: Homem-Aranha Através do Aranhaverso - Uma Jornada Além das Dimensões"
+      cardDescription='No épico cinematográfico "Homem-Aranha Através do Aranhaverso", uma trama de dimensões cósmicas está prestes a se desenrolar,
+      colocando o Amigão da Vizinhança do Brooklyn em uma aventura que vai além das barreiras da realidade conhecida.'>
+    </app-big-card>
   </div>
 
   <div class="articles__news">
-    <app-small-card Id="2" photoCover="https://noticias.maisesports.com.br/wp-content/uploads/2023/03/cs-2-1.jpg"
+    <app-small-card
+      Id="2"
+      photoCover="https://noticias.maisesports.com.br/wp-content/uploads/2023/03/cs-2-1.jpg"
       photoData="Setembro 27, 2023"
-      cardTitle="Recarregando a Lenda: CS: GO 2 Chega para uma Nova Era de Combate"></app-small-card>
+      cardTitle="Recarregando a Lenda: CS: GO 2 Chega para uma Nova Era de Combate">
+    </app-small-card>
 
-    <app-small-card Id="3"
+    <div class="articles__news-separator">
+      <hr>
+    </div>
+
+    <app-small-card
+      Id="3"
       photoCover="https://animerant.com.br/wp-content/uploads/2023/08/luffy-awakens-gear-5th-one-piece-696x348.jpg"
       photoData="Agosto 05, 2023"
-      cardTitle="Luffy Alcança o Pico do Poder: A Surpreendente Revelação do Gear Five!"></app-small-card>
+      cardTitle="Luffy Alcança o Pico do Poder: A Surpreendente Revelação do Gear Five!">
+    </app-small-card>
 
-    <app-small-card Id="4"
-      photoCover="https://s2.glbimg.com/OQhSDstoHGNvKm0iak-dFgldeHE=/e.glbimg.com/og/ed/f/original/2019/04/10/buraco_negro.png"
-      photoData="Abril 10, 2019"
-      cardTitle="Janela para o Invisível: A NASA Revela a Primeira Imagem Histórica de um Buraco Negro"></app-small-card>
+    <div class="articles__news-separator">
+      <hr>
+    </div>
+
+    <app-small-card
+      Id="4"
+      photoCover="https://ichef.bbci.co.uk/news/800/cpsprodpb/3f89/live/a54c71d0-5d88-11ee-93e8-5d16174eb488.jpg"
+      photoData="Setembro 27, 2023"
+      cardTitle="O que acontece com o corpo humano após mais de um ano no espaço?">
+    </app-small-card>
   </div>
 </div>
 
-<div class="container__articles-relevant">
-  <app-relevant-card></app-relevant-card>
-  <hr>
-  <app-relevant-card></app-relevant-card>
-  <hr>
-  <app-relevant-card></app-relevant-card>
-  <hr>
-  <app-relevant-card></app-relevant-card>
-</div>
+<div class="container__articles-lastest-news">
 
-<app-footer></app-footer>
+  <h3>SANDRINI EDITOR</h3>
+
+  <div class="container__articles-news">
+    <div>
+      <app-relevant-card
+      Id="5"
+      photoCover="https://super.abril.com.br/wp-content/uploads/2020/06/25-06_colisaoburaconegro_SITE.jpg?quality=90&strip=info&w=1024&h=682&crop=1"
+      photoData="Setembro 21, 2023"
+      cardTitle="Estrelas em colisão formam buraco negro de massa estelar"
+      cardDescription="A série Star Wars: Skeleton Crew, estrelada por Jude Law, estreia no Disney+ em 2023. A série é ambientada na era pós-Retorno do Jedi e segue um grupo de crianças que se perdem na galáxia."
+      ></app-relevant-card>
+    </div>
+
+    <span class="articles__lastest__news-separator"></span>
+
+    <div>
+      <app-relevant-card
+      Id="6"
+      photoCover="https://cinepop.com.br/wp-content/uploads/2023/01/skeleton-crew.jpg"
+      photoData="Setembro 23, 2023"
+      cardTitle="Star Wars: Skeleton Crew estreia em 2023"
+      cardDescription="A série Star Wars: Skeleton Crew, estrelada por Jude Law, estreia no Disney+ em 2023. A série é ambientada na era pós-Retorno do Jedi e segue um grupo de crianças que se perdem na galáxia."
+      ></app-relevant-card>
+    </div>
+
+    <span class="articles__lastest__news-separator"></span>
+
+    <div>
+      <app-relevant-card
+      Id="7"
+      photoCover="https://www.otempo.com.br/image/contentid/policy:1.2362706:1595413376/000-1VF81D-jpg.jpg?f=3x2&w=1224"
+      photoData="Setembro 21, 2023"
+      cardTitle="Cometa Neowise volta a ser visível em 2023"
+      cardDescription="O cometa Neowise, que foi visto no céu em 2020, volta a ser visível em 2023. O cometa será visível a olho nu em outubro de 2023."
+      ></app-relevant-card>
+    </div>
+
+    <span class="articles__lastest__news-separator"></span>
+
+    <div>
+      <app-relevant-card
+      Id="8"
+      photoCover="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000033696/be89eb9c1c6a57cf58e8d14b03d26b4c42d988e02c082fd0fe368417c43b959e"
+      photoData="Setembro 27, 2023"
+      cardTitle="Minecraft Legends é lançado para Xbox e PC"
+      cardDescription="O jogo Minecraft Legends foi lançado para Xbox e PC. O jogo é um spin-off de Minecraft que mistura estratégia em tempo real com ação."
+      ></app-relevant-card>
+    </div>
+  </div>
+</div>

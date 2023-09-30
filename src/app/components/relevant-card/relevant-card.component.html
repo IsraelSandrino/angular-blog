@@ -1,14 +1,16 @@
 <div class="container__relevant-card">
-  <div>
+  <div class="relevant_card__photo">
     <figure>
-      <img src="#" alt="">
-      <figcaption>teste</figcaption>
+      <img src="{{ photoCover }}" alt="">
+      <figcaption class="relevant_card__photo-data">{{ photoData }}</figcaption>
     </figure>
   </div>
-  <div>
-    <h2>asdasd</h2>
+  <div class="relevant_card__title">
+    <h2><a [routerLink]="['content', Id]">{{ cardTitle }}</a></h2>
   </div>
-  <div>
-    <p>haudhasud</p>
+  <div class="relevant_card__description">
+    <p>
+      <a [routerLink]="['content', Id]">{{ cardDescription }}</a>
+    </p>
   </div>
 </div>

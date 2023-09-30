@@ -8,6 +8,8 @@ import { Component, Input, OnInit } from '@angular/core';
 export class BigCardComponent implements OnInit {
 
   @Input()
+  Id:string = "0"
+  @Input()
   photoCover:string = ""
   @Input()
   photoData:string = ""
@@ -15,8 +17,6 @@ export class BigCardComponent implements OnInit {
   cardTitle:string = ""
   @Input()
   cardDescription:string = ""
-  @Input()
-  Id:string = "0"
 
   constructor() {}
 

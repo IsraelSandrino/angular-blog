@@ -1,0 +1,35 @@
+.container__relevant-card {
+  background-color: #e9e9e9;
+  height: 100%;
+  padding-bottom: 30px;
+}
+
+.relevant_card__photo > figure > img {
+  width: -webkit-fill-available;
+  height: 243px;
+}
+
+.relevant_card__photo-data {
+  color: #515151;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 16px 0 13px 0;
+  padding: 0 12px;
+}
+
+.relevant_card__title > h2 > a {
+  color: #515151;
+  display: block;
+  padding: 0 13px;
+}
+
+.relevant_card__description {
+  margin-top: 20px;
+  padding: 0 12px;
+}
+
+.relevant_card__description > p > a {
+  color: #515151;
+}
+
+

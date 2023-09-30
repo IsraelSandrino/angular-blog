@@ -1,4 +1,3 @@
-header {
-  width: 100%;
-  margin: 5px 0;
+.container__menu-bar {
+  padding: 5px 0;
 }
