@@ -13,6 +13,9 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { RelevantCardComponent } from './components/relevant-card/relevant-card.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { AsideCardsComponent } from './components/aside-cards/aside-cards.component';
+import { GamesComponent } from './pages/games/games.component';
+import { AnimeComponent } from './pages/anime/anime.component';
+import { NerdPlusComponent } from './pages/nerd-plus/nerd-plus.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +28,10 @@ import { AsideCardsComponent } from './components/aside-cards/aside-cards.compon
     ContentComponent,
     RelevantCardComponent,
     FooterComponent,
-    AsideCardsComponent
+    AsideCardsComponent,
+    GamesComponent,
+    AnimeComponent,
+    NerdPlusComponent
   ],
   imports: [
     BrowserModule,
