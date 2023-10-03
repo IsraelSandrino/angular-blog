@@ -3,6 +3,8 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  padding: 5px 0 9px 0;
+  border-bottom: 1px solid #515151;
 }
 
 .content__nav-logo {

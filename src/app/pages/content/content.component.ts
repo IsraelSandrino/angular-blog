@@ -10,8 +10,11 @@ import { dataFake } from '../../data/dataFake';
 
 export class ContentComponent implements OnInit {
   photoCover:string = ""
+  photoData:any = ""
+  localization:string = ""
   contentTitle:string = ""
   contentDescription:string = ""
+  article:any = ""
   private id:string | null = "0"
 
   constructor(
@@ -32,5 +35,8 @@ export class ContentComponent implements OnInit {
     this.contentTitle = result.title
     this.contentDescription = result.description
     this.photoCover = result.photoCover
+    this.photoData = result.photoData
+    this.localization = result.localization
+    this.article = result.article
   }
 }

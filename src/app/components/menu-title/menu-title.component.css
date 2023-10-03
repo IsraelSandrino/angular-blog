@@ -5,8 +5,5 @@
 .container__menu-title > img {
   padding: 40px 0;
   width: 100%;
-}
-
-.container__menu-title > hr {
-  border-color: #515151;
+  border-bottom: 1px solid #515151;;
 }

@@ -1,15 +1,104 @@
 <div class="container__content">
-  <div class="content__cover">
-    <img src="{{ photoCover }}" alt="">
-  </div>
-  <div class="content__title">
-    <h1>{{ contentTitle }}</h1>
-    <hr/>
-  </div>
-  <div class="content__description">
+  <section class="content__news">
     <a [routerLink]="['']"><< Voltar</a>
-    <p>
-      {{ contentDescription }}
-    </p>
-  </div>
+
+    <div class="content__cover">
+      <img src="{{ photoCover }}" alt="">
+    </div>
+
+    <div class="content__title">
+      <h1>{{ contentTitle }}</h1>
+    </div>
+
+    <div class="content__article">
+      <div class="content__editorial-info">
+        <div><span>Israel Sandrino</span> da Sandrini News</div>
+        <div>{{ localization }}</div>
+
+        <hr/>
+
+        <div>{{ photoData }}</div>
+      </div>
+
+      <div class="content__article-material">
+        <p>
+          {{ article['paragraph1'] }}
+        </p>
+        <br>
+        <p>
+          {{ article['paragraph2'] }}
+        </p>
+        <br>
+        <p>
+          {{ article['paragraph3'] }}
+        </p>
+        <br>
+        <p>
+          {{ article['paragraph4'] }}
+        </p>
+        <br>
+        <p>
+          {{ article['paragraph5'] }}
+        </p>
+        <br>
+        <p>
+          {{ article['paragraph6'] }}
+        </p>
+        <br>
+        <p>
+          {{ article['paragraph7'] }}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <aside class="container__others_news">
+    <div class="container__others_news__featured">
+      <h3>Destaques</h3>
+
+      <div>
+        <app-aside-cards
+        Id="2"
+        photoData="Setembro 27, 2023"
+        cardTitle="Recarregando a Lenda: CS: GO 2 Chega para uma Nova Era de Combate">
+        </app-aside-cards>
+      </div>
+
+      <div>
+        <app-aside-cards
+        Id="3"
+        photoData="Agosto 05, 2023"
+        cardTitle="Luffy Alcança o Pico do Poder: A Surpreendente Revelação do Gear Five!">
+        </app-aside-cards>
+      </div>
+
+      <div>
+        <app-aside-cards
+        Id="4"
+        photoData="Setembro 27, 2023"
+        cardTitle="Janela para o Invisível: A NASA Revela a Primeira Imagem Histórica de um Buraco Negro">
+        </app-aside-cards>
+      </div>
+    </div>
+
+    <div class="container__others_news__latest">
+      <h3>Notícias Recentes</h3>
+
+      <div>
+        <app-aside-cards
+        Id="5"
+        photoData="Setembro 27, 2023"
+        cardTitle="Estrelas em colisão formam buraco negro de massa estelar">
+        </app-aside-cards>
+      </div>
+
+      <div>
+        <app-aside-cards
+        Id="6"
+        photoData="Setembro 27, 2023"
+        cardTitle="Star Wars: Skeleton Crew estreia em 2023">
+        </app-aside-cards>
+      </div>
+    </div>
+  </aside>
 </div>

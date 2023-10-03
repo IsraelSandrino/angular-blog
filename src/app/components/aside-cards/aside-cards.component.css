@@ -1,0 +1,12 @@
+.content__aside-data {
+  font-size: 14px;
+  color: #616161;
+}
+
+.content__aside-title {
+  color: #a1a1a1;
+}
+
+.content__aside-title:hover {
+  color: #d0d0d0;
+}

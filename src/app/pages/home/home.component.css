@@ -12,6 +12,7 @@
 .articles__news {
   width: 50%;
   min-height: 100%;
+  margin-left: 50px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -19,7 +20,6 @@
 
 .articles__news-separator > hr {
   border-color: #515151;
-  margin-left: 50px;
 }
 
 .container__articles-lastest-news {

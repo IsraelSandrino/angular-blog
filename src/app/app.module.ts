@@ -12,6 +12,7 @@ import { ContentComponent } from './pages/content/content.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { RelevantCardComponent } from './components/relevant-card/relevant-card.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { AsideCardsComponent } from './components/aside-cards/aside-cards.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { FooterComponent } from './components/footer/footer.component';
     HomeComponent,
     ContentComponent,
     RelevantCardComponent,
-    FooterComponent
+    FooterComponent,
+    AsideCardsComponent
   ],
   imports: [
     BrowserModule,
