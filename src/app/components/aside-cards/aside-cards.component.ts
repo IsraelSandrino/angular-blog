@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-aside-cards',
@@ -7,13 +8,15 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class AsideCardsComponent implements OnInit {
   @Input()
-  Id:string = "0"
+  Id: string = "0"
   @Input()
-  photoData:string = ""
+  photoData: string = ""
   @Input()
-  cardTitle:string = ""
+  cardTitle: string = ""
 
-  constructor() {}
+  constructor(private router: Router) { }
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.router.initialNavigation();
+  }
 }
