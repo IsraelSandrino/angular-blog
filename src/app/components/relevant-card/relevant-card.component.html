@@ -1,16 +1,16 @@
 <div class="container__relevant-card">
   <div class="relevant_card__photo">
     <figure>
-      <img src="{{ photoCover }}" alt="">
+      <a [routerLink]="['/content', Id]"><img src="{{ photoCover }}" alt=""></a>
       <figcaption class="relevant_card__photo-data">{{ photoData }}</figcaption>
     </figure>
   </div>
   <div class="relevant_card__title">
-    <h2><a [routerLink]="['content', Id]">{{ cardTitle }}</a></h2>
+    <h2><a [routerLink]="['/content', Id]">{{ cardTitle }}</a></h2>
   </div>
   <div class="relevant_card__description">
     <p>
-      <a [routerLink]="['content', Id]">{{ cardDescription }}</a>
+      <a [routerLink]="['/content', Id]">{{ cardDescription }}</a>
     </p>
   </div>
 </div>

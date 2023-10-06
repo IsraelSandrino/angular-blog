@@ -6,12 +6,12 @@
   margin-right: 50px;
 }
 
-.big-card__photo > figure {
+.big-card__photo > figure > a {
   width: 100%;
   box-sizing: border-box;
 }
 
-.big-card__photo > figure > img {
+.big-card__photo > figure > a > img {
   width: inherit;
   height: auto;
 }

@@ -4,7 +4,7 @@
   padding-bottom: 30px;
 }
 
-.relevant_card__photo > figure > img {
+.relevant_card__photo > figure > a > img {
   width: -webkit-fill-available;
   height: 213px;
 }

@@ -7,7 +7,7 @@
   width: 40%;
 }
 
-.small-card__photo > img {
+.small-card__photo > a > img {
   width: -webkit-fill-available;
   height: auto;
   margin-right: 30px;

@@ -1,7 +1,7 @@
 <div class="container__big-card">
   <div class="big-card__photo">
     <figure>
-      <img src="{{ photoCover }}">
+      <a [routerLink]="['content', Id]"><img src="{{ photoCover }}"></a>
       <figcaption class="big-card__photo-data">{{ photoData}} </figcaption>
     </figure>
   </div>
