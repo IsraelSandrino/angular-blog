@@ -113,92 +113,92 @@ export const dataFake = [
   },
   {
     "id": "9",
-    "title": "Miranha",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
-    "localization": "Cascavel, PR",
+    "title": "Muito curto? Spider-Man 2 leva 30 horas para ser 100% concluído, diz jogador",
+    "description": "Uma nova polêmica surge no mundo dos games enquanto Spider-Man 2, o altamente antecipado jogo de super-herói, é lançado e um jogador dedicado relata que leva incríveis 30 horas de jogo para alcançar a conclusão total do título.",
+    "photoCover": "https://sm.ign.com/ign_br/gallery/s/spider-man/spider-man-2-first-preview-images_6jzx.jpg",
+    "photoData": 'Setembro 22, 2023',
+    "localization": 'Cascavel, PR',
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'Uma nova polêmica surge no mundo dos games enquanto Spider-Man 2, o altamente antecipado jogo de super-herói, é lançado e um jogador dedicado relata que leva incríveis 30 horas de jogo para alcançar a conclusão total do título. Esta revelação contradiz as expectativas de muitos jogadores que inicialmente presumiram que o jogo seria mais curto em comparação com títulos anteriores da franquia.',
+      "paragraph2": 'O jogador, que preferiu permanecer anônimo, compartilhou sua jornada no Reddit, detalhando meticulosamente suas 30 horas de gameplay. Segundo ele, a campanha principal em Spider-Man 2 oferece uma experiência densa e envolvente, repleta de missões complexas, desafios de combate e uma narrativa rica. Além disso, o jogo conta com uma variedade impressionante de atividades paralelas, incluindo colecionáveis, missões secundárias e eventos dinâmicos que estendem significativamente a vida útil do jogo.',
+      "paragraph3": 'Enquanto alguns jogadores expressaram surpresa com a longa duração do jogo, outros elogiaram a Insomniac Games por criar uma experiência tão rica e imersiva. A notícia provocou debates apaixonados nas redes sociais, destacando a diversidade de opiniões dentro da comunidade de jogadores. Enquanto alguns argumentam que a longa duração do jogo é uma característica positiva, proporcionando mais valor ao dinheiro investido, outros questionam se essa extensão de tempo é necessária para contar uma história convincente.',
+      "paragraph4": 'Spider-Man 2, que foi lançado em 20 de março de 2023, continua a ser o centro das atenções no mundo dos videogames, prometendo oferecer aos jogadores uma experiência intensa e prolongada no papel do amado super-herói do universo Marvel. Como as discussões sobre sua longevidade continuam a se desenrolar, uma coisa é certa: Spider-Man 2 está definitivamente deixando uma marca duradoura na indústria de jogos eletrônicos deste ano.'
     }
   },
   {
     "id": "10",
-    "title": "Batima",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
+    "title": "Batman: Trilogia Arkham do Switch é adiada para o final do ano",
+    "description": "Uma notícia decepcionante para os fãs do Cavaleiro das Trevas: a esperada trilogia Batman: Arkham para o Nintendo Switch foi adiada para o final do ano.",
+    "photoCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3RkfyEy9JnLkcU--KTGiwIpf1MKTQAkS3S7Ev6mA-E0EWTbhTa1YHtzh3LFMZmpVE3zg2MeBl_6CYKQQ_Xfbl2ixXxiejmq0iOnl_3DD3EfAB-C0IMqtAh33GMewUGnyZWvgt35fT9eFP43O_U570ZoqrlDXXbMT7gchr_T-ITM8bX4F5pHAQ9nsOy4T/s1199/Batman-Arkham-Trilogy-release-date.jpg",
+    "photoData": "Setembro 5, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'Uma notícia decepcionante para os fãs do Cavaleiro das Trevas: a esperada trilogia Batman: Arkham para o Nintendo Switch foi adiada para o final do ano. A notícia veio da Rocksteady Studios, desenvolvedora responsável pela amada série, que anunciou a mudança de data de lançamento em comunicado oficial.',
+      "paragraph2": 'Originalmente planejado para ser lançado no meio do ano, o pacote que inclui Batman: Arkham Asylum, Batman: Arkham City e Batman: Arkham Knight foi adiado para garantir que a transição para o Nintendo Switch seja suave e que a experiência do jogador atenda às expectativas elevadas dos fãs. A equipe de desenvolvimento está dedicando tempo adicional para otimizar os gráficos, a jogabilidade e a performance, assegurando que os jogadores tenham uma experiência imersiva e fluida enquanto exploram Gotham City e enfrentam alguns dos mais icônicos vilões do universo Batman.',
+      "paragraph3": 'A trilogia Arkham é aclamada por sua narrativa envolvente, jogabilidade dinâmica e design de mundo aberto, tornando-se uma das franquias mais amadas do universo dos videogames baseados em super-heróis. Com o Nintendo Switch como plataforma, os jogadores esperam uma experiência portátil e autêntica, permitindo que mergulhem no mundo sombrio e intrigante do Batman em qualquer lugar e a qualquer momento.',
+      "paragraph4": 'Apesar da decepção inicial pela notícia do adiamento, os fãs permanecem otimistas de que a espera valerá a pena. A Rocksteady Studios promete não apenas entregar uma trilogia que honre a rica mitologia do Batman, mas também uma versão que aproveite ao máximo o poder do Nintendo Switch. Até o final do ano, os jogadores podem esperar mergulhar nas sombras de Gotham City e assumir o manto do Cavaleiro das Trevas em uma das experiências de super-heróis mais emocionantes já criadas para um console portátil.'
     }
   },
   {
     "id": "11",
-    "title": "Narutinho",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
+    "title": "Naruto - Quando Heróis se Tornam Lendas",
+    "description": "Esse arco narrativo monumental, que se desdobrou ao longo de centenas de episódios, não foi apenas uma batalha física, mas uma jornada emocional para os personagens e para os fãs. Naruto, o carismático ninja de Konoha, liderou uma aliança improvável de aldeias contra o impiedoso exército da Akatsuki e seu líder, Obito Uchiha. O campo de batalha foi tomado por uma energia palpável, com jutsus poderosos iluminando o céu noturno enquanto os personagens lutavam não apenas por sua sobrevivência, mas pelo futuro de seus lares. Foi uma narrativa que explorou a força da amizade, a aceitação da própria identidade e a superação de tragédias passadas.",
+    "photoCover": "https://sm.ign.com/ign_br/screenshot/default/naruto-shippuden_zy11.jpg",
+    "photoData": "Setembro 15, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'Há exatos quinze anos, Naruto Uzumaki, o ninja loiro e sonhador da Vila da Folha, fez sua primeira aparição nas páginas de um mangá, dando início a uma jornada que iria além das fronteiras do papel e das telas. Desde então, Naruto evoluiu de um jovem aspirante a Hokage para um ícone cultural, ensinando lições poderosas sobre perseverança, amizade e autodescoberta ao longo do caminho.',
+      "paragraph2": 'A criação do mangaká Masashi Kishimoto, Naruto rapidamente conquistou fãs em todo o mundo com sua história cativante e personagens complexos. A narrativa épica segue a vida do jovem ninja enquanto ele enfrenta desafios monumentais, supera tragédias pessoais e defende sua vila contra ameaças poderosas. Ao lado de seus amigos leais, incluindo Sasuke Uchiha, Sakura Haruno e mentor Kakashi Hatake, Naruto ensinou aos espectadores que a verdadeira força vem da determinação e da vontade de nunca desistir.',
+      "paragraph3": 'Além dos mangás originais e do anime, a franquia Naruto expandiu-se para videogames, filmes, spin-offs e até mesmo para a sequência Boruto, protagonizada pelo filho de Naruto. Entretanto, o legado de Naruto vai além dos números de vendas e das premiações. Ele se tornou um símbolo de inspiração para gerações, demonstrando que mesmo os mais improváveis heróis podem alcançar grandeza quando enfrentam desafios com coragem e compaixão.',
+      "paragraph4": 'Hoje, no aniversário de quinze anos desde sua estreia, fãs de Naruto em todo o mundo celebram não apenas um anime e mangá, mas uma parte fundamental de suas vidas. A jornada de Naruto Uzumaki continua a nos lembrar que, no mundo real ou no mundo ninja, todos nós somos capazes de superar adversidades e nos tornarmos lendas em nossos próprios caminhos. Enquanto os fãs recordam os momentos emocionantes e as lições profundas que Naruto nos ensinou, a mensagem duradoura de perseverança e amizade permanece tão poderosa quanto sempre.'
     }
   },
   {
     "id": "12",
-    "title": "Pirata que estica",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
+    "title": "One Piece: Uma Jornada Além dos Mares - A Saga que Ensinou o Mundo sobre Coragem e Amizade",
+    "description": 'Em um mar de incontáveis aventuras anime, "One Piece" emerge como uma jornada singular, ultrapassando barreiras e capturando corações globalmente. A história do chapéu de palha, Monkey D. Luffy, e sua tripulação, na busca incansável pelo tesouro supremo, o One Piece, transcende os limites de um simples anime. Esta saga, criada pelo brilhante mangaká Eiichiro Oda, não é apenas sobre piratas e batalhas épicas, mas sobre amizade, lealdade e a busca incessante pela liberdade.',
+    "photoCover": "https://proxy.olhardigital.com.br/wp-content/uploads/2022/07/one-piece.jpg",
+    "photoData": "Setembro 25, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'Há mais de duas décadas, o mangá "One Piece" de Eiichiro Oda foi lançado, dando início a uma aventura extraordinária que cativou leitores e telespectadores em todo o mundo. Desde então, essa saga de piratas, poderes misteriosos e ilhas exóticas tornou-se muito mais do que apenas uma história; ela se transformou em uma lição de vida sobre determinação, amizade e a busca pelos sonhos.',
+      "paragraph2": '"One Piece" segue a jornada de Monkey D. Luffy e sua tripulação do Chapéu de Palha enquanto eles navegam pelos mares Grand Line em busca do One Piece, o tesouro final deixado pelo lendário Rei dos Piratas, Gol D. Roger. Ao longo de sua jornada, Luffy e seus amigos enfrentam perigos inimagináveis, vilões formidáveis e desafios intransponíveis, tudo em nome de realizar seus sonhos e proteger aqueles que amam.',
+      "paragraph3": 'O sucesso duradouro de "One Piece" vai além de suas batalhas épicas e reviravoltas emocionantes. Em seu cerne, a história é sobre valores fundamentais como amizade, lealdade e coragem. Os personagens são mais do que simples figuras fictícias; eles se tornaram arquétipos de determinação e resiliência para os fãs ao redor do mundo. A jornada de Luffy, de um jovem impulsivo a um líder confiante, inspirou milhões a seguir seus próprios sonhos, não importa quão impossíveis possam parecer.',
+      "paragraph4": 'Com sua narrativa envolvente e personagens profundamente humanos, "One Piece" tornou-se um fenômeno cultural, gerando uma base de fãs dedicada e diversas adaptações em várias formas de mídia. A série de anime, jogos, filmes e até mesmo parques temáticos capturam a essência dessa história incrível, permitindo que os fãs vivenciem o mundo de Luffy de maneiras inovadoras e emocionantes.'
     }
   },
   {
     "id": "13",
-    "title": "Dragon ball",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
+    "title": "Dragon Ball Z: A Ascensão dos Guerreiros",
+    "description": 'Em um universo onde a batalha entre o bem e o mal transcende os limites da imaginação, "Dragon Ball Z" permanece como o épico supremo que definiu uma era dos animes. Desde seu primeiro episódio em 1989, a saga de Goku e seus aliados em sua luta contra ameaças cósmicas conquistou corações em todo o mundo. Com suas batalhas intensas, transformações impressionantes e uma narrativa que oscila entre o humor e a emoção, "Dragon Ball Z" não é apenas uma série, mas um mito moderno. A jornada de Goku de um humilde guerreiro a um lendário Super Saiyajin tornou-se uma metáfora para a busca humana pela excelência, pela superação de desafios aparentemente insuperáveis.',
+    "photoCover": "https://s2-techtudo.glbimg.com/H5B_qUIPdtw-zOXtA5BMu_AlnNY=/0x0:1856x1080/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/z/g/IZkGgJREC83BODB6smIA/dragon-ball-z-kakarot-techtudo.jpg",
+    "photoData": "Setembro 8, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": '"A Ascensão dos Guerreiros" mergulha os espectadores em um mundo onde a paz conquistada com tanto esforço é ameaçada por uma nova e formidável força. Novos vilões surgem das sombras, trazendo consigo uma ameaça que ultrapassa todas as anteriores. Goku, Vegeta, Gohan e seus companheiros guerreiros devem treinar mais intensamente do que nunca, desbloquear novos níveis de poder e formar alianças inesperadas para enfrentar esse desafio sem precedentes.',
+      "paragraph2": 'A animação de alta qualidade e os efeitos visuais deslumbrantes elevam "A Ascensão dos Guerreiros" a um novo patamar, proporcionando aos fãs uma experiência visualmente espetacular que coincide com a intensidade das batalhas na tela. Além disso, a trilha sonora épica, composta especialmente para este filme, intensifica cada momento, mergulhando o público ainda mais fundo na história emocionante.',
+      "paragraph3": 'Os fãs podem esperar encontros emocionantes entre personagens queridos, assim como a introdução de novos heróis e vilões que deixarão uma marca duradoura no universo de Dragon Ball. Com momentos de ação de tirar o fôlego, desenvolvimento de personagens e reviravoltas surpreendentes, "Dragon Ball Z: A Ascensão dos Guerreiros" promete ser não apenas um tributo à rica história da série, mas também uma emocionante visão do futuro.',
+      "paragraph4": 'À medida que os guerreiros Z se preparam para enfrentar o desconhecido, os fãs de Dragon Ball em todo o mundo aguardam com expectativa para ver como essa nova saga se desdobrará. "A Ascensão dos Guerreiros" promete não apenas ser uma aventura, mas uma epopeia emocional que continuará a deixar uma marca nos corações dos fãs, celebrando a coragem, a amizade e a determinação que tornaram Dragon Ball uma parte tão amada da cultura pop global.'
     }
   },
   {
     "id": "14",
-    "title": "Bleach",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
+    "title": "A Jornada de Ichigo Kurosaki na Terra e Além",
+    "description": 'Em meio aos reinos dos animes, "Bleach" emerge como uma saga que mescla o sobrenatural com a mais profunda essência humana. Desde sua estreia em 2004, esta série provocou uma fascinação inigualável. A história de Ichigo Kurosaki, um adolescente com o dom de ver espíritos, levou os espectadores a um mundo onde almas perdidas, segredos antigos e poderes insondáveis colidem. Ao se tornar um Shinigami - um Ceifador de Almas - Ichigo assumiu a responsabilidade de proteger seu mundo e o Mundo dos Espíritos de ameaças obscuras. Em cada Zanpakuto desembainhada e Hollow derrotado, "Bleach" explorou temas complexos de identidade, sacrifício e a dualidade da existência.',
+    "photoCover": "https://sm.ign.com/ign_br/screenshot/default/bleach-02_a4yr.jpg",
+    "photoData": "Setembro 12, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'A história de Ichigo Kurosaki começou quando ele adquiriu poderes de shinigami, uma entidade espiritual que protege os vivos dos espíritos malignos conhecidos como Hollows. Ao longo dos anos, Ichigo enfrentou inúmeras adversidades, incluindo batalhas épicas contra poderosos inimigos, a perda de entes queridos e a exploração de diferentes reinos espirituais. Seja na Terra ou no Mundo Soul Society, Ichigo e seus amigos lutaram incansavelmente para proteger ambos os mundos e as pessoas que amam.x',
+      "paragraph2": 'O que tornou Bleach uma obra tão amada foi não apenas a ação espetacular, mas também a profundidade emocional dos personagens. Ichigo não era apenas um guerreiro habilidoso, mas também um jovem com dilemas emocionais e conflitos internos, tornando-o excepcionalmente humano e relativo para os fãs. Além disso, o mundo espiritual ricamente detalhado, criado por Tite Kubo, expandiu a imaginação dos leitores, proporcionando uma visão única sobre a vida após a morte e a complexidade das almas humanas.',
+      "paragraph3": 'Ao longo dos anos, Bleach ganhou uma base de fãs dedicada que se apegou não apenas às batalhas impressionantes, mas também às mensagens tocantes de amizade, sacrifício e perseverança. A jornada de Ichigo Kurosaki é um testemunho duradouro do poder da narrativa e da habilidade dos criadores em tocar os corações dos espectadores.',
+      "paragraph4": 'No vigésimo segundo aniversário de Bleach, os fãs continuam a celebrar não apenas uma série de anime e mangá, mas uma parte significativa de suas vidas. A jornada de Ichigo Kurosaki na Terra e além continua a inspirar, emocionar e conectar pessoas de todas as idades, relembrando-nos do poder duradouro da boa narrativa e da profundidade do espírito humano.'
     }
   },
   {
     "id": "15",
-    "title": "Tetraquarck",
-    "description": "x",
+    "title": "Cientistas Confirmam a Existência do Tétradecaquark",
+    "description": 'Cientistas do CERN (Organização Europeia para a Pesquisa Nuclear) anunciaram uma descoberta que poderia remodelar nossa compreensão da física de partículas. A existência do tétradecaquark, uma partícula subatômica previamente desconhecida, foi confirmada após anos de pesquisa intensiva. Essa descoberta não apenas preenche uma lacuna em nossa compreensão das partículas fundamentais, mas também poderia ter implicações profundas para teorias físicas existentes, abrindo novos caminhos para a exploração científica e tecnológica.',
     "photoCover": "x",
     "photoData": "x",
     "localization": "Cascavel, PR",
