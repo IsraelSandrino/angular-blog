@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
-import { faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 
 @Component({
@@ -11,6 +10,9 @@ import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 export class MenuBarComponent implements OnInit {
 
   photoLogo:string = "https://raelsandrini.com/wp-content/uploads/2023/07/nav-logo.png"
+  linkedin:string = "https://linkedin.com/in/isandrino"
+  gitHub:string = "https://github.com/IsraelSandrino"
+  mailTo:string = "mailto:isandrino99@gmail.com"
   faLinkedin = faLinkedin;
   faGithub = faGithub;
   faEnvelope = faEnvelope;

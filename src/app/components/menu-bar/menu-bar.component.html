@@ -1,6 +1,9 @@
 <nav class="container__menu-bar">
   <div class="content__nav-logo">
-    <img src="{{ photoLogo }}" alt="">
+    <a [routerLink]="['']">
+      <img src="{{ photoLogo }}" alt="">
+    </a>
+
   </div>
 
   <div class="content__pages">
@@ -15,18 +18,18 @@
   <div class="content__social-media">
     <ul>
       <li>
-        <a href="https://linkedin.com/in/isandrino">
-          <fa-icon [icon]="faLinkedin"></fa-icon>
+        <a [href]="linkedin">
+          <fa-icon class="changes-icon" [icon]="faLinkedin"></fa-icon>
         </a>
       </li>
       <li>
-        <a href="https://github.com/IsraelSandrino">
-          <fa-icon [icon]="faGithub"></fa-icon>
+        <a [href]="gitHub">
+          <fa-icon class="changes-icon" [icon]="faGithub"></fa-icon>
         </a>
       </li>
       <li>
-        <a href="">
-          <fa-icon [icon]="faEnvelope"></fa-icon>
+        <a [href]="mailTo">
+          <fa-icon class="changes-icon" [icon]="faEnvelope"></fa-icon>
         </a>
       </li>
     </ul>

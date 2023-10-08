@@ -1,6 +1,6 @@
 <div>
   <div class="content__aside-data">{{ photoData }}</div>
-  <a [routerLink]="['../', Id]">
+  <a (click)="navigateToNews(Id)">
     <h4 class="content__aside-title">{{ cardTitle }}</h4>
   </a>
 </div>

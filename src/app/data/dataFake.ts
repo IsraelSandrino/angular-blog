@@ -197,58 +197,58 @@ export const dataFake = [
   },
   {
     "id": "15",
-    "title": "Cientistas Confirmam a Existência do Tétradecaquark",
-    "description": 'Cientistas do CERN (Organização Europeia para a Pesquisa Nuclear) anunciaram uma descoberta que poderia remodelar nossa compreensão da física de partículas. A existência do tétradecaquark, uma partícula subatômica previamente desconhecida, foi confirmada após anos de pesquisa intensiva. Essa descoberta não apenas preenche uma lacuna em nossa compreensão das partículas fundamentais, mas também poderia ter implicações profundas para teorias físicas existentes, abrindo novos caminhos para a exploração científica e tecnológica.',
-    "photoCover": "x",
-    "photoData": "x",
+    "title": "Cientistas Confirmam a Existência do Tetraquark",
+    "description": 'Cientistas do CERN (Organização Europeia para a Pesquisa Nuclear) anunciaram uma descoberta que poderia remodelar nossa compreensão da física de partículas. A existência do tetraquark, uma partícula subatômica previamente desconhecida, foi confirmada após anos de pesquisa intensiva. Essa descoberta não apenas preenche uma lacuna em nossa compreensão das partículas fundamentais, mas também poderia ter implicações profundas para teorias físicas existentes, abrindo novos caminhos para a exploração científica e tecnológica.',
+    "photoCover": "https://64.media.tumblr.com/4d6fb2621d3f7bde9c69b9f854292d36/tumblr_inline_oa559rmNsu1spez7m_1280.png",
+    "photoData": "Setembro 18, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'Um marco extraordinário na física de partículas foi alcançado pelos cientistas do Grande Colisor de Hádrons (LHC) no CERN, com a confirmação da existência do tetraquark, uma partícula subatômica rara e esquiva que até agora existia apenas na teoria. Esta descoberta, anunciada em 18 de Novembro de 2023, não apenas amplia nosso entendimento sobre a estrutura fundamental da matéria, mas também abre novos caminhos para a física de partículas e nossa compreensão do universo.',
+      "paragraph2": 'Os tetraquarks são partículas compostas, cada uma consistindo em 14 quarks, que são os blocos de construção fundamentais dos prótons e nêutrons encontrados nos núcleos atômicos. A existência dessas partículas extremamente exóticas foi prevista pelas teorias da cromodinâmica quântica (QCD), mas sua detecção experimental tem sido um desafio monumental devido à sua natureza fugaz e instável.',
+      "paragraph3": 'A confirmação veio após anos de pesquisa intensiva e análise de dados obtidos a partir de colisões de partículas no LHC. Os cientistas observaram padrões específicos de distribuição de energia e momento nas partículas resultantes dessas colisões, fornecendo evidências convincentes da presença e comportamento peculiar dos tetraquarks.',
+      "paragraph4": 'A descoberta do tetraquark é um avanço significativo na física de partículas, abrindo novas perguntas sobre a interação das forças fundamentais da natureza em escalas subatômicas. Além disso, essa descoberta tem implicações profundas para a cosmologia e a compreensão do universo primordial, já que nos ajuda a entender melhor as condições extremas que existiam logo após o Big Bang.'
     }
   },
   {
     "id": "16",
-    "title": "PC Quântico",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
+    "title": "Pesquisadores Usam Computadores Quânticos para Modelagem Molecular Precisa",
+    "description": 'A computação quântica está revolucionando o campo da medicina, oferecendo uma potência computacional sem precedentes para modelagem molecular e descoberta de medicamentos. Pesquisadores conseguiram utilizar computadores quânticos para simular estruturas moleculares complexas com uma precisão sem igual, pavimentando o caminho para a medicina personalizada e terapias inovadoras.',
+    "photoCover": "https://img.olhardigital.com.br/wp-content/uploads/2021/08/shutterstock_652948648.jpg",
+    "photoData": "Setembro 7, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'Um marco revolucionário foi alcançado no campo da modelagem molecular com o uso de computadores quânticos de última geração. Pesquisadores de diversas instituições em todo o mundo anunciaram em 7 de Dezembro de 2023 um avanço significativo na precisão da modelagem molecular, graças à capacidade sem precedentes dos computadores quânticos em simular sistemas moleculares complexos em níveis atômicos e subatômicos.',
+      "paragraph2": 'A capacidade de simular e entender o comportamento das moléculas em escalas tão minuciosas é essencial para avanços em diversas áreas, desde a descoberta de novos medicamentos até o desenvolvimento de materiais inovadores. No entanto, a complexidade dos sistemas moleculares muitas vezes desafia as capacidades dos supercomputadores convencionais, tornando a precisão dos resultados uma preocupação crucial para os cientistas.',
+      "paragraph3": 'Utilizando algoritmos quânticos avançados e computadores quânticos altamente sofisticados, os pesquisadores conseguiram modelar moléculas complexas com uma precisão sem precedentes. Os computadores quânticos permitiram a simulação de interações moleculares em níveis quânticos, levando a uma compreensão mais profunda das estruturas moleculares, dinâmicas e reações químicas.',
+      "paragraph4": 'Esta conquista não apenas representa um marco no campo da química teórica, mas também tem implicações significativas para a biologia molecular, a nanotecnologia e a ciência dos materiais. Ao compreender melhor as interações moleculares em um nível quântico, os cientistas agora têm a capacidade de projetar novos medicamentos com maior precisão, criar materiais mais eficientes e explorar aplicações inovadoras em diversas áreas tecnológicas.'
     }
   },
   {
     "id": "17",
-    "title": "Buraco negro",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
+    "title": "Primeira Imagem de um Buraco Negro Supermassivo no Centro de uma Galáxia Distante",
+    "description": "Numa conquista inovadora, astrônomos capturaram a primeira imagem de um buraco negro supermassivo situado no coração de uma galáxia distante. A imagem, obtida por meio de um esforço colaborativo global, proporciona uma visão sem precedentes para o enigmático mundo dos buracos negros. Esta descoberta monumental não apenas valida a teoria da relatividade geral de Einstein, mas também aprimora nossa compreensão das entidades mais misteriosas do universo.",
+    "photoCover": "https://s2.glbimg.com/OQhSDstoHGNvKm0iak-dFgldeHE=/e.glbimg.com/og/ed/f/original/2019/04/10/buraco_negro.png",
+    "photoData": "Setembro 15, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'Um marco extraordinário na astronomia foi alcançado em 15 de Janeiro de 2024, quando cientistas divulgaram a primeira imagem de um buraco negro supermassivo situado no coração de uma galáxia distante. Esta descoberta monumental foi possível graças à colaboração internacional e ao uso de uma rede global de radiotelescópios, formando o Event Horizon Telescope (EHT), que capturou essa imagem histórica.',
+      "paragraph2": 'A imagem revela um anel brilhante e distorcido de luz ao redor de uma região escura, representando o horizonte de eventos do buraco negro, o ponto além do qual nada, nem mesmo a luz, pode escapar de sua atração gravitacional esmagadora. Este buraco negro supermassivo, localizado a bilhões de anos-luz de distância da Terra, possui uma massa equivalente a milhões de vezes a do nosso Sol, e está localizado no centro de uma galáxia elíptica massiva.',
+      "paragraph3": 'A captura dessa imagem não apenas valida as teorias da relatividade geral de Einstein em condições extremas, mas também proporciona uma rara visão direta dos processos físicos nos arredores de um buraco negro. Os cientistas agora podem estudar as propriedades do campo gravitacional intensamente forte ao redor do buraco negro, bem como investigar a emissão de jatos de partículas energéticas que são lançados a velocidades próximas à da luz.',
+      "paragraph4": 'Além disso, essa descoberta reforça a compreensão dos astrônomos sobre a formação e a evolução dos buracos negros supermassivos, que desempenham um papel crucial na estrutura e na dinâmica das galáxias no universo. Os dados obtidos também oferecem insights valiosos sobre o comportamento dos campos magnéticos e dos discos de acreção em torno desses fenômenos cósmicos, fornecendo um terreno fértil para futuras pesquisas e teorias.'
     }
   },
   {
     "id": "18",
     "title": "Mini-Órgãos",
-    "description": "x",
-    "photoCover": "x",
-    "photoData": "x",
+    "description": "Num salto notável para a bioengenharia, cientistas conseguiram cultivar mini-órgãos funcionais em ambientes laboratoriais. Utilizando técnicas avançadas de engenharia de tecidos, pesquisadores geraram versões em miniatura de órgãos humanos, cada uma replicando as funções complexas de seus equivalentes em tamanho real. Esses mini-órgãos, ou organoides, estão revolucionando a pesquisa médica, fornecendo modelos precisos para estudos de doenças e testes de medicamentos.",
+    "photoCover": "https://conteudo.imguol.com.br/c/noticias/2014/10/29/29out2014---tecidos-de-estomago-humano-marcados-em-verde-na-imagem-cresceram-em-um-prato-que-contem-celulas-que-produzem-muco-em-vermelho-da-mesma-forma-que-os-estomagos-naturais-os-mini-orgaos-1414616378197_615x300.jpg",
+    "photoData": "Setembro 3, 2023",
     "localization": "Cascavel, PR",
     "article": {
-      "paragraph1": 'x',
-      "paragraph2": 'x',
-      "paragraph3": 'x',
-      "paragraph4": 'x'
+      "paragraph1": 'Uma conquista notável na medicina regenerativa foi alcançada em 3 de Fevereiro de 2024, quando cientistas anunciaram com entusiasmo a criação bem-sucedida de mini-órgãos funcionais em laboratório. Este avanço científico, que tem o potencial de revolucionar o campo da medicina, foi realizado por equipes de pesquisa em várias partes do mundo, que conseguiram desenvolver tecidos e estruturas tridimensionais que imitam órgãos humanos vitais em uma escala minúscula.',
+      "paragraph2": 'Usando uma técnica avançada chamada bioimpressão e cultivo de células-tronco, os cientistas conseguiram criar mini-órgãos, incluindo corações, pulmões, fígados e rins, que funcionam de maneira surpreendente semelhante aos órgãos humanos reais. Estes mini-órgãos, também conhecidos como organoides, são estruturas tridimensionais complexas que replicam a arquitetura e as funções específicas dos órgãos humanos em uma escala microscópica.',
+      "paragraph3": 'A capacidade de criar mini-órgãos em laboratório tem o potencial de transformar fundamentalmente a medicina regenerativa, fornecendo uma fonte abundante de tecidos para transplantes e testes de drogas personalizados. Além disso, os organoides são uma ferramenta valiosa para entender melhor o desenvolvimento de doenças e para criar modelos de pesquisa que podem acelerar a descoberta de tratamentos mais eficazes.',
+      "paragraph4": 'Essa tecnologia promissora não apenas abre novas possibilidades para transplantes de órgãos, eliminando a necessidade de doadores humanos compatíveis, mas também oferece esperança para pacientes que enfrentam doenças crônicas, degenerativas e genéticas. Além disso, os mini-órgãos proporcionam aos cientistas uma plataforma inovadora para testar medicamentos de forma mais precisa, permitindo a criação de terapias personalizadas adaptadas às necessidades individuais dos pacientes.'
     }
   }
 ]

@@ -7,6 +7,10 @@
   margin-right: 50px;
 }
 
+.content__news > a {
+  cursor: pointer;
+}
+
 .container__others_news {
   margin-top: 44px;
   margin-left: 50px;

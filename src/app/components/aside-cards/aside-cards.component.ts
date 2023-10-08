@@ -14,9 +14,13 @@ export class AsideCardsComponent implements OnInit {
   @Input()
   cardTitle: string = ""
 
-  constructor(private router: Router) { }
+  constructor(
+    private router: Router
+  ) { }
 
-  ngOnInit(): void {
-    this.router.initialNavigation();
+  ngOnInit(): void {}
+
+  navigateToNews(id: string): void {
+    this.router.navigate(['/content', id]);
   }
 }

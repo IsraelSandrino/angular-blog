@@ -44,3 +44,7 @@
   font-size: 25px;
   list-style-type: none;
 }
+
+.changes-icon:hover {
+  color: #62ABD5 !important;
+}
